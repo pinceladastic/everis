@@ -1,2 +1,4 @@
-# everis
-Proyectos de la Bootcamp de Everis
+# git-bootcamp-everis
+
+## 01 Git 
+Proyecto de prueba para probar los comandos de git
